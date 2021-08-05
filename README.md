@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">Medianet of Tunisia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: ines-bouguerra](https://img.shields.io/badge/-ines-bouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
+[![Linkedin: ines-bouguerra](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
 
 [![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/Ines-Bouguerra?label=follow&style=social)](https://github.com/Ines-Bouguerra)
 
