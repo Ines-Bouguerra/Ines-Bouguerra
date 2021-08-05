@@ -3,12 +3,12 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">Medianet of Tunisia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: inesbouguerra9](https://img.shields.io/twitter/follow/@inesbouguerra9?style=social)](https://twitter.com/inesbouguerra9)
-[![Linkedin: ines-bouguerra](https://img.shields.io/badge/-ines-bouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ines-bouguerra)](linkedin.com/in/ines-bouguerra)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 [![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/Ines-Bouguerra?label=follow&style=social)](https://github.com/Ines-Bouguerra)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media-exp1.licdn.com/dms/image/C5603AQENO01MFkPO4w/profile-displayphoto-shrink_200_200/0/1563135850022?e=1632960000&v=beta&t=TiR8RGbEPSX0EmTrosnUyuJ0wAjYMepG3n9hr7-zX_I" width="50"> A little more about me...  
 
 
 
