@@ -7,8 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 [![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/Ines-Bouguerra?label=follow&style=social)](https://github.com/Ines-Bouguerra)
 
-
-### <img src="https://media-exp1.licdn.com/dms/image/C5603AQENO01MFkPO4w/profile-displayphoto-shrink_200_200/0/1563135850022?e=1632960000&v=beta&t=TiR8RGbEPSX0EmTrosnUyuJ0wAjYMepG3n9hr7-zX_I" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 
