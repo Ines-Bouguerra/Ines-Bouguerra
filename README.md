@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: ines-bouguerra](https://img.shields.io/badge/-Ines Bouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
+[![Linkedin: ines-bouguerra](https://img.shields.io/badge/-inesBouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
 [![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/Ines-Bouguerra?label=follow&style=social)](https://github.com/Ines-Bouguerra)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
