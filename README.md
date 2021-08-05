@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ines Bouguerra!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQENO01MFkPO4w/profile-displayphoto-shrink_200_200/0/1563135850022?e=1632960000&v=beta&t=TiR8RGbEPSX0EmTrosnUyuJ0wAjYMepG3n9hr7-zX_I" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">Medianet of Tunisia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
