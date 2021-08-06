@@ -14,6 +14,7 @@
 
 
 ```python
+
 class Ines:
 
     def __init__(self):
@@ -37,7 +38,9 @@ class Ines:
 if __name__ == '__main__':
     me = Ines()
     
+```
 
+[![Ines's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ines-Bouguerra&show_icons=true)](https://github.com/Ines-Bouguerra)
 
 
 
