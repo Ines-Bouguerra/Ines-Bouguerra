@@ -39,13 +39,6 @@ if __name__ == '__main__':
     
 
 
-
-```
-```
 [![Ines's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ines-Bouguerra&show_icons=true)](https://github.com/Ines-Bouguerra)
 
-## Get in touch
-
-- Twitter: https://twitter.com/inesbouguerra9
-- Email: ines.bouguerra2207@gmail.com
 
