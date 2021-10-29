@@ -10,6 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+<a href="https://app.daily.dev/Ines_DEV"><img src="https://api.daily.dev/devcards/542a4af46c2c42dfbe47b83ddcd9961e.png?r=jgl" width="400" alt="Ines BOUGUERRA's Dev Card"/></a>
 
 
 ```python
@@ -41,5 +42,4 @@ if __name__ == '__main__':
 
 [![Ines's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ines-Bouguerra&show_icons=true)](https://github.com/Ines-Bouguerra)
 
-<a href="https://app.daily.dev/Ines_DEV"><img src="https://api.daily.dev/devcards/542a4af46c2c42dfbe47b83ddcd9961e.png?r=jgl" width="400" alt="Ines BOUGUERRA's Dev Card"/></a>
 
