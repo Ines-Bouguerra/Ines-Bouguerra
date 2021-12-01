@@ -21,8 +21,8 @@ class Ines:
         self.name = 'Ines Bouguerra'
         self.twitter = '@inesbouguerra9'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular', 'Boostrap'],
-            'backend': ['Python', 'Flask', 'Django', 'Java',, 'Spring' 'NodeJS', 'C#'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular', 'Vue JS', 'Boostrap'],
+            'backend': ['Python', 'Flask', 'Django', 'Java',, 'Spring' 'NodeJS', 'C#', 'Laravel'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB','Ealasticsearch'],
             'devops': ['Docker', 'Jenkins', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'SQLAlchemy'],
