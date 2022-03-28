@@ -6,7 +6,7 @@
 [![Linkedin: ines-bouguerra](https://img.shields.io/badge/-inesBouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
 [![GitHub Ines-Bouguerra](https://img.shields.io/github/followers/Ines-Bouguerra?label=follow&style=social)](https://github.com/Ines-Bouguerra)
 
-<a href="mailto:ines.bouguerra2207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ines.bouguerra2207@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ines.bouguerra2207@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ines.bouguerra.22@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -41,5 +41,4 @@ if __name__ == '__main__':
 
 [![Ines's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ines-Bouguerra&show_icons=true)](https://github.com/Ines-Bouguerra)
 
-<a href="https://app.daily.dev/Ines_DEV"><img src="https://api.daily.dev/devcards/542a4af46c2c42dfbe47b83ddcd9961e.png?r=jgl" width="400" alt="Ines BOUGUERRA's Dev Card"/></a>
 
