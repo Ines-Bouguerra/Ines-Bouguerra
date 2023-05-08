@@ -18,10 +18,9 @@ class Ines:
     def __init__(self):
         self.username = 'ines'
         self.name = 'Ines Bouguerra'
-        self.twitter = '@inesbouguerra9'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular', 'Vue JS', 'Boostrap'],
-            'backend': ['Python', 'Flask', 'Django', 'Spring' 'NodeJS', 'Laravel'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Vue JS', 'Boostrap'],
+            'backend': ['Python', 'Django', 'NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB','Ealasticsearch'],
             'devops': ['Docker', 'Jenkins', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'SQLAlchemy'],
