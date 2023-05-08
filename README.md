@@ -1,6 +1,5 @@
 <h2> Hi, I'm Ines Bouguerra!<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
-<p><em>Software Enginner at <a href="https://www.medianet.tn">MediaNET</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+<p><em>Software Enginner</p>
 
 
 [![Linkedin: ines-bouguerra](https://img.shields.io/badge/-inesBouguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ines-bouguerra/)](https://www.linkedin.com/in/ines-bouguerra/)
